@@ -1,4 +1,4 @@
-# eslint-config-75team
+# eslint-config-75team
 > The recommended eslint config of 75team
 
 [![npm](https://img.shields.io/npm/v/eslint-config-75team.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-75team) [![dependency status](https://david-dm.org/75team/esint-config-75team.svg)](https://david-dm.org/75team/esint-config-75team) [![License](https://img.shields.io/npm/l/eslint-config-75team.svg)](LICENSE)
