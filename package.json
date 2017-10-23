@@ -16,7 +16,7 @@
     "url": "https://github.com/75team/eslint-config-75team/issues"
   },
   "homepage": "https://github.com/75team/eslint-config-75team#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-eslint": "^8.0.1",
     "eslint-config-airbnb-base": "^12.1.0"
   }
