@@ -6,7 +6,7 @@
 
 
 Extends `eslint-config-airbnb-base`.
-Use it as is or as a foundation for your own config.
+Use it as a foundation for your own config.
 
 To see the rules that this config uses, please read the detail of our [config rules](https://github.com/75team/eslint-config-75team/blob/master/index.js).
 
