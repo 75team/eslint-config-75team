@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-75team",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The recommended eslint config of 75team",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,7 @@
   "homepage": "https://github.com/75team/eslint-config-75team#readme",
   "dependencies": {
     "babel-eslint": "^8.0.1",
-    "eslint-config-airbnb-base": "^12.1.0"
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
   }
 }
