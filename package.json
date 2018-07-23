@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-75team",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The recommended eslint config of 75team",
   "main": "index.js",
   "scripts": {
